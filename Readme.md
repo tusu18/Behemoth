@@ -37,7 +37,7 @@ on local surface features, not on what the sentence means.
 
 In Behemoth, the pattern is different. One expert handles 96.4% of technical
 passages and 78% of factual passages. A different expert handles 77.8% of dialogue.
-No auxiliary routing objective was used — this emerged from pretraining alone.
+No auxiliary routing objective was used this emerged from pretraining alone.
 
 The mechanism appears to be the memory update itself. When an expert is updated
 repeatedly on factual retrieval patterns, it gets better at factual retrieval.
@@ -240,7 +240,7 @@ behemoth/
 The routing findings are from one architecture trained on one dataset.
 Whether they generalise is unknown. 70M parameters and 1.42B tokens is
 small for drawing strong conclusions about MoE routing in general.
-Multi-hop BABILong tasks (QA3–QA5) are not solved — they require
+Multi hop BABILong tasks (QA3–QA5) are not solved they require
 fact chaining that base pretrained models at this scale cannot do.
 Training data is English-only.
 
