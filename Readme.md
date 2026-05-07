@@ -2,7 +2,7 @@
 
 # 🦣 Behemoth-70M
 
-**Semantic Memory Routing in Sub-100M Neural Long-Term Memory**
+**Semantic Memory Routing in Sub 100M Neural Long Term Memory**
 
 [[arXiv](Coming Soon)
 [[HuggingFace](Coming soon)
