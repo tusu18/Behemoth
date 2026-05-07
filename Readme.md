@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦣 Behemoth-70M
+# 🦣 Behemoth 70M
 
 **Semantic Memory Routing in Sub 100M Neural Long Term Memory**
 
