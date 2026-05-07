@@ -4,8 +4,8 @@
 
 **Semantic Memory Routing in Sub-100M Neural Long-Term Memory**
 
-[![arXiv](Coming Soon)
-[![HuggingFace](Coming soon)
+[[arXiv](Coming Soon)
+[[HuggingFace](Coming soon)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 
