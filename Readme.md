@@ -20,8 +20,8 @@ descent at inference time can store and retrieve specific facts across arbitrari
 long contexts. The idea is elegant: instead of a fixed recurrent state or a growing
 KV cache, the model's memory weights themselves are the long-term storage.
 
-We built Behemoth-70M to study what this looks like at 70M parameters —
-a scale where most long-context approaches break down — and found two things
+We built Behemoth-70M to study what this looks like at 70M parameters
+a scale where most long-context approaches break down and found two things
 we did not go in expecting.
 
 ---
@@ -258,7 +258,6 @@ Training data is English-only.
 }
 ```
 
-Submitted to NeurIPS 2026 (Main Track, Use-Inspired contribution type).
 
 ---
 
